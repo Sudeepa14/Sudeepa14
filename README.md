@@ -35,7 +35,7 @@
 <br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="60" height="45"/>&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="60" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="80" height="50"/>
 <br>
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="firebase" width="50" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://brandslogos.com/wp-content/uploads/images/microsoft-sql-server-logo.png" alt="visual_studio_code" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;
