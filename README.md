@@ -19,7 +19,6 @@
 
  [![@sudeepa14](https://img.icons8.com/fluency/48/000000/linkedin.png "@sudeepanadeeshan")](https://www.linkedin.com/in/sudeepanadeeshan/) 
  [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@_sudeepa_")](https://twitter.com/_sudeepa_) 
- [![@0711366982](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711366982")](tel:0711366982) 
  [![@sudeepa.14@cse.mrt.ac.lk](https://img.icons8.com/fluency/48/000000/apple-mail.png "@sudeepa[dot]14[at]cse[dot]mrt[dot]ac[dot]lk")](sudeepa[dot]14[at]cse[dot]mrt[dot]ac[dot]lk)
 
 <br>
