@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 👨‍💻 I am currently working as a **Associate Team Lead** at [Enactor Ltd, Hertford, England, United Kingdom](https://enactor.co/)
+- 👨‍💻 I am currently working as a **Senior Backend Engineer** at [Folia.com, United States](https://folia.com/)
 - 👨‍💻 Former **Research Assistant** at [DataSEARCH, UoM](https://uom.lk/datasearch/members/sudeepa-nadeeshan)
 - 👨‍💻 Former **Software Engineer** at [Ciperlabs](https://ciperlabs.com/)
 - 🎓 Studied Computer Science & Engineering at [University of Moratuwa](http://www.cse.mrt.ac.lk/)
